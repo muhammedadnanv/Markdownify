@@ -52,5 +52,5 @@ Markdownify is developed with ❤️ by Muhammed Adnan. It leverages modern web 
 For feedback, suggestions, or support, please contact  [https://x.com/AdnanVv73611]. or visit [https://github.com/muhammedadnanv/Markdownify.git].
 
 ---
-
+![](https://komarev.com/ghpvc/?muhammedadnanv/Markdownify)
 Feel free to customize the contact details and links according to your preferences.
