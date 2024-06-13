@@ -49,7 +49,7 @@ Markdownify is a Progressive Web App (PWA) designed to simplify the creation of 
 Markdownify is developed with ❤️ by Muhammed Adnan. It leverages modern web technologies including HTML, CSS, JavaScript, and PWA principles to deliver a robust and user-friendly tool for GitHub users.
 
 #### Feedback and Support:
-For feedback, suggestions, or support, please contact  [https://x.com/AdnanVv73611].or visit [].
+For feedback, suggestions, or support, please contact  [https://x.com/AdnanVv73611]. or visit [https://github.com/muhammedadnanv/Markdownify.git].
 
 ---
 
